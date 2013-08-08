@@ -2,6 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.2.13'
 gem 'mongoid', '~> 2.7.1'
+gem 'rake', '~> 10.1.0'
 
 # Mongoid rails migration > 0.0.14 is not compatible to Mongoid 2.x
 gem 'mongoid_rails_migrations', '~> 0.0.14'

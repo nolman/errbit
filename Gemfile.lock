@@ -432,6 +432,7 @@ DEPENDENCIES
   rack-ssl-enforcer
   rails (= 3.2.13)
   rails_autolink
+  rake (~> 10.1.0)
   ri_cal
   rspec-rails (~> 2.6)
   ruby-debug
